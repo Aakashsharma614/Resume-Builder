@@ -262,9 +262,7 @@ Please adhere to the project's coding standards and best practices.
 ## 💬 Support
 
 If you encounter any issues or have suggestions for improvement, please feel free to:
-
-* Open an issue on GitHub: [https://github.com/asfand-dev/impact-cv/issues](https://github.com/asfand-dev/impact-cv/issues)
-* Reach out via asfand.dev@gmail.com
+Reach out to me sharmaaakash6543@gmail.com
 
 ## 📄 License
 
